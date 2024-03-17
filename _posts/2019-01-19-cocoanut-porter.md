@@ -5,9 +5,8 @@ title:  Cocoanut Porter
 brewer: RÅÅ Bryggeri
 venue: Lådan
 reviewer: Agnes Haverling
+image: https://assets.untappd.com/photos/2019_01_19/e1e014f1b08e2b5411c2d05a103832da_200x200.jpeg
 ---
-
-![Cocoanut Porter](https://assets.untappd.com/photos/2019_01_19/e1e014f1b08e2b5411c2d05a103832da_200x200.jpeg)
 
 Light and refreshing.
 						  <br />
