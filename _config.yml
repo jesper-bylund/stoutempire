@@ -28,7 +28,7 @@ twitter_username: jesperbylund
 github_username:  jesper-bylund
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: midnight
 #theme: minima
 plugins:
   - jekyll-feed
