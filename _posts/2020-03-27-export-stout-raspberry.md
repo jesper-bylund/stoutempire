@@ -5,9 +5,8 @@ title:  Export Stout Raspberry
 brewer: The Kernel Brewery
 venue: Beer n' Play
 reviewer: Agnes Haverling
+image: https://assets.untappd.com/photos/2020_03_27/4e0da5b2e0874249bd5d08e230f04a2f_200x200.jpg
 ---
-
-![Export Stout Raspberry](https://assets.untappd.com/photos/2020_03_27/4e0da5b2e0874249bd5d08e230f04a2f_200x200.jpg)
 
 Fresh and delightful with a lot of raspberry tang. Good but not great in my book, needs more sweetness 💁🏼‍♀️
 						  <br />
