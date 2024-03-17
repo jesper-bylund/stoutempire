@@ -2,10 +2,11 @@
 ---
 layout: post
 title:  Provocator
-brewer: FUERST WIACEK Berlin,
-venue: Untappd,
-reviewer: Agnes Haverling,
+brewer: FUERST WIACEK Berlin
+venue: Untappd
+reviewer: Agnes Haverling
 ---
+
 ![Provocator](null)
 
 A tad too hoppy and soy&#45;sauce&#45;y for me. Expected more body and sweetness from the higher ABV. Good but not great.
