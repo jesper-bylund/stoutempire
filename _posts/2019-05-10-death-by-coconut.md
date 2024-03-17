@@ -5,9 +5,8 @@ title:  Death By Coconut
 brewer: Oskar Blues Brewery®
 venue: Oliver Twist
 reviewer: Agnes Haverling
+image: https://assets.untappd.com/photos/2019_05_10/8fb8fc2b57c3fdda2943cdfe57eb0a22_200x200.jpg
 ---
-
-![Death By Coconut](https://assets.untappd.com/photos/2019_05_10/8fb8fc2b57c3fdda2943cdfe57eb0a22_200x200.jpg)
 
 Mega coconutty. Sweet and light with all the benificial electrolytes I’m sure. Do try!
 						  <br />
