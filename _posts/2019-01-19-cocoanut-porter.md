@@ -1,13 +1,16 @@
 
-       ---
-       layout: post
-       title:  Cocoanut Porter
-       ---
-       ![Cocoanut Porter](https://assets.untappd.com/photos/2019_01_19/e1e014f1b08e2b5411c2d05a103832da_200x200.jpeg)
+---
+layout: post
+title:  Cocoanut Porter
+brewer: RÅÅ Bryggeri
+venue: Lådan
+reviewer: Agnes Haverling
+---
 
-       Light and refreshing.
+![Cocoanut Porter](https://assets.untappd.com/photos/2019_01_19/e1e014f1b08e2b5411c2d05a103832da_200x200.jpeg)
+
+Light and refreshing.
 						  <br />
 						  <img height="200" width="200" src="https://assets.untappd.com/photos/2019_01_19/e1e014f1b08e2b5411c2d05a103832da_200x200.jpeg" alt="Photo">         
 						
-       [Toast this review on Untappd](https://untappd.com/user/StoutEmpire/checkin/702538274)
-       
+[Toast this review on Untappd](https://untappd.com/user/StoutEmpire/checkin/702538274)
