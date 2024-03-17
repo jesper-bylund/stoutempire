@@ -1,10 +1,13 @@
 
-       ---
-       layout: post
-       title:  Smoky Cacao
-       ---
-       ![Smoky Cacao](null)
+---
+layout: post
+title:  Smoky Cacao
+brewer: Dugges Bryggeri
+venue: Lådan
+reviewer: Agnes Haverling
+---
 
-       
-       [Toast this review on Untappd](https://untappd.com/user/StoutEmpire/checkin/675672608)
-       
+![Smoky Cacao](null)
+
+
+[Toast this review on Untappd](https://untappd.com/user/StoutEmpire/checkin/675672608)
