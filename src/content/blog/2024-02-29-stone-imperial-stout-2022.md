@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Stone Imperial Stout (2022)
