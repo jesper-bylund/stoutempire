@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Must Kuld Paper Mill
