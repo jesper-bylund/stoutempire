@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Cookies & Corpsepaint (Imperial Girl Scout Edition)
