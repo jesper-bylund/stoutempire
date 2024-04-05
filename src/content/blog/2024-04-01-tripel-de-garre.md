@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Tripel De Garre
