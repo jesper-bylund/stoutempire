@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Beer Geek Konfekt
