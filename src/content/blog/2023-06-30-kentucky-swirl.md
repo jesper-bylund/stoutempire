@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Kentucky Swirl
@@ -6,6 +5,7 @@ brewer: Dugges Bryggeri
 venue: Hôtel Reisen
 reviewer: Agnes Haverling
 image: https://assets.untappd.com/photos/2023_06_30/fb5baf9065f0214d396863b97940a742_200x200.jpg
+pubDate: 2023-06-30
 ---
 
 Did not think I was going to be able to taste the pistachio. You can TOTALLY taste the pistachio 🤤

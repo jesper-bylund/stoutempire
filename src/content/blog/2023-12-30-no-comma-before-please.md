@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  No Comma Before Please
@@ -6,6 +5,7 @@ brewer: Boundary Brewing
 venue: Man in the Moon
 reviewer: Agnes Haverling
 image: https://assets.untappd.com/photos/2023_12_30/666da09f1fb42472b5d12c1cb9767bc9_200x200.jpg
+pubDate: 2023-12-30
 ---
 
 High lactose and ABV adds a lot of sweetness. Absolutely love the heat of the chipotle at the end 🍫🥥🌶️🥃

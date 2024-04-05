@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Beer Geek Konfekt
@@ -6,6 +5,7 @@ brewer: Mikkeller
 venue: Mikkeller Berlin
 reviewer: Agnes Haverling
 image: https://images.untp.beer/crop?width=200&height=200&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_03_09/1a54bb9a8c404b84fbeaf50e3b1bda64_c_1362075642_raw.jpg
+pubDate: 2024-03-09
 ---
 
 TLDR; Fantastic, a must&#45;try.🍫🌰🥃

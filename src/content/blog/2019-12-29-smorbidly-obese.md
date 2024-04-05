@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  S'Morbidly Obese
@@ -6,6 +5,7 @@ brewer: Cervisiam
 venue: BrewDog Kungsholmen
 reviewer: Agnes Haverling
 image: https://assets.untappd.com/photos/2019_12_29/8defa35e7fd05678640dd9e7045f68b4_200x200.jpeg
+pubDate: 2019-12-29
 ---
 
 Like baking cinnamon in an oven. Or is it cocoa? Or both. There’s definitely something baking or burning cinnamon in that scent. And flavor

@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Banoffee Bänger
@@ -6,6 +5,7 @@ brewer: Põhjala
 venue: The Hanging Bat
 reviewer: Agnes Haverling
 image: https://assets.untappd.com/photos/2023_10_07/c47b04f14b31024610cc283801a77a51_200x200.jpg
+pubDate: 2023-10-07
 ---
 
 Abso&#45;fucking&#45;lutely amazing 🍌🍫🥃

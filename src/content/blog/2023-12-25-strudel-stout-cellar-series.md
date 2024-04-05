@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Strudel Stout (Cellar Series)
@@ -6,6 +5,7 @@ brewer: Põhjala
 venue: Untappd
 reviewer: Agnes Haverling
 image: https://assets.untappd.com/photos/2023_12_25/7f673791393eadb9da05425c65d865dd_200x200.jpg
+pubDate: 2023-12-25
 ---
 
 Very nice, not much cinnamon though. The barrel taste is a little heavy but viscosity and booziness is on point.
