@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Delirium Noël / Christmas (2023)
 brewer: Delirium &#45; Huyghe Brewery
 venue: Untappd
