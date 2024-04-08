@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Gulden Draak 9000 Quadruple
 brewer: Brouwerij Van Steenberge
 venue: Delirium Café Lisboa
