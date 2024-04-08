@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Smoky Cacao
 brewer: Dugges Bryggeri
 venue: Lådan

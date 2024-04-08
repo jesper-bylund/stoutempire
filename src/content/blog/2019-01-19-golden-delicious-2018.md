@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Golden Delicious (2018)
 brewer: Captain Lawrence Brewing Company
 venue: Man in the Moon

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Feasting With Panthers
 brewer: Wylam
 venue: BrewDog Kungsholmen

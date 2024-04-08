@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Common Ground
 brewer: Moersleutel Craft Brewery
 venue: Bräugier Brewpub

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Organic Chocolate Stout
 brewer: Samuel Smith
 venue: Oliver Twist

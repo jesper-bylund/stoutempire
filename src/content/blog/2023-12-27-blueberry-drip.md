@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Blueberry Drip
 brewer: Finback Brewery
 venue: Stigbergets Fot

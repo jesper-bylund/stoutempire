@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Swedish Wash
 brewer: Mikkeller
 venue: Mikkeller Bar

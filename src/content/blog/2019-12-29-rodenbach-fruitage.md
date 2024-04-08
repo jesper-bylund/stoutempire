@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Rodenbach FruitAge
 brewer: Brouwerij Rodenbach
 venue: BrewDog Kungsholmen

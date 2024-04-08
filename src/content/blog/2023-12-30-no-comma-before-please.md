@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  No Comma Before Please
 brewer: Boundary Brewing
 venue: Man in the Moon

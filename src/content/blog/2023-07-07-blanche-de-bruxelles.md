@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Blanche de Bruxelles
 brewer: Brasserie Lefebvre
 venue: Yuma

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Beer Geek Konfekt
 brewer: Mikkeller
 venue: Mikkeller Berlin
