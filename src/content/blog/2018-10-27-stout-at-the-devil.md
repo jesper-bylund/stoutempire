@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Stout at the Devil
 brewer: Straight to Ale
 venue: undefined
