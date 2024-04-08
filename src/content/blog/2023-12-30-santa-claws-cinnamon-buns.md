@@ -1,5 +1,5 @@
 ---
-title:  Santa Claws Cinnamon Buns
+title:  Santa Claws: Cinnamon Buns
 brewer: Fat Orange Cat Brew Co.
 venue: Man in the Moon
 reviewer: Agnes Haverling
