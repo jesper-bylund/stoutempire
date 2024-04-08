@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Kapuziner Weißbier
 brewer: Kulmbacher Brauerei
 venue: Untappd

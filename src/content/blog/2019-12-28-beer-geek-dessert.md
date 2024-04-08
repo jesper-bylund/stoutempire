@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Beer Geek Dessert
 brewer: Mikkeller
 venue: MacKinlay's Inn

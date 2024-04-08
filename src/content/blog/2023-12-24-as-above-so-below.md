@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  As Above So Below
 brewer: Mortalis Brewing Company
 venue: Untappd

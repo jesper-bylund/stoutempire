@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Banoffee Bänger
 brewer: Põhjala
 venue: The Hanging Bat

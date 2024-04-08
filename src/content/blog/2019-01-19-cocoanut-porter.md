@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Cocoanut Porter
 brewer: RÅÅ Bryggeri
 venue: Lådan

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Must Kuld Paper Mill
 brewer: BRLO
 venue: undefined

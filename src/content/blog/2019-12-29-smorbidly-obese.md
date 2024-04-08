@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  S'Morbidly Obese
 brewer: Cervisiam
 venue: BrewDog Kungsholmen

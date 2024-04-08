@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Midgårdsormen
 brewer: Keane Brewing
 venue: Lådan

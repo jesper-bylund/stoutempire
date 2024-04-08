@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Lost Variation
 brewer: Finback Brewery
 venue: Man in the Moon

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Cybernaut
 brewer: BrewDog
 venue: undefined

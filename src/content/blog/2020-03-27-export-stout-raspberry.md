@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Export Stout Raspberry
 brewer: The Kernel Brewery
 venue: Beer n' Play

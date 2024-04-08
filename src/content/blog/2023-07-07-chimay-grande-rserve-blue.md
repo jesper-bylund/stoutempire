@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Chimay Grande Réserve (Blue)
 brewer: Bières de Chimay
 venue: Yuma

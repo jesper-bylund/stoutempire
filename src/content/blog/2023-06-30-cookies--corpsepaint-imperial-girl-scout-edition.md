@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Cookies & Corpsepaint (Imperial Girl Scout Edition)
 brewer: New Level Brewing
 venue: Hôtel Reisen

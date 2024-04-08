@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Der Anfang Ist Das Ende&#45;2020
 brewer: Bräugier Craftbier
 venue: Bräugier Ostkreuz

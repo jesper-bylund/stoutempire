@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Battle Hammer
 brewer: Dry & Bitter Brewing Company
 venue: BrewDog Kungsholmen

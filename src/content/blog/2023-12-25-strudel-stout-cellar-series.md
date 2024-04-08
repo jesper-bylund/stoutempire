@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Strudel Stout (Cellar Series)
 brewer: Põhjala
 venue: Untappd

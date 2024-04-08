@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Kentucky Swirl
 brewer: Dugges Bryggeri
 venue: Hôtel Reisen

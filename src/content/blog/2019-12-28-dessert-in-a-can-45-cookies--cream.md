@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Dessert In A Can &#45; Cookies & Cream
 brewer: Amundsen Brewery
 venue: MacKinlay's Inn

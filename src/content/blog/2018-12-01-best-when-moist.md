@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Best When Moist
 brewer: To Øl CPH
 venue: Lådan

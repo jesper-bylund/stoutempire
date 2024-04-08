@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Trouble Sleep
 brewer: Stigbergets Bryggeri
 venue: Lådan

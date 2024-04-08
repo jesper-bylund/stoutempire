@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Tripel De Garre
 brewer: Brouwerij Van Steenberge
 venue: Delirium Café Lisboa

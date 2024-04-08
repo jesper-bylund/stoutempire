@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Death By Coconut
 brewer: Oskar Blues Brewery®
 venue: Oliver Twist
