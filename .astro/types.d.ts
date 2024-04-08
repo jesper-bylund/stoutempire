@@ -472,6 +472,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"2024-04-05-gulden-draak-9000-quadruple.md": {
+	id: "2024-04-05-gulden-draak-9000-quadruple.md";
+  slug: "2024-04-05-gulden-draak-9000-quadruple";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 
 	};
