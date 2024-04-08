@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Stone Imperial Stout (2022)
 brewer: Stone Brewing
 venue: Vasastan Ölhall
