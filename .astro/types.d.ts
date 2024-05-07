@@ -479,6 +479,76 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"2024-04-07-extra-special-bitter.md": {
+	id: "2024-04-07-extra-special-bitter.md";
+  slug: "2024-04-07-extra-special-bitter";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-07-mexican-chocolate-dark-ale.md": {
+	id: "2024-04-07-mexican-chocolate-dark-ale.md";
+  slug: "2024-04-07-mexican-chocolate-dark-ale";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-07-quimera-mexican-chocolate-dark-ale.md": {
+	id: "2024-04-07-quimera-mexican-chocolate-dark-ale.md";
+  slug: "2024-04-07-quimera-mexican-chocolate-dark-ale";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-07-trindade-45-urea.md": {
+	id: "2024-04-07-trindade-45-urea.md";
+  slug: "2024-04-07-trindade-45-urea";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-12-albino-stout.md": {
+	id: "2024-04-12-albino-stout.md";
+  slug: "2024-04-12-albino-stout";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-12-helles-yeah.md": {
+	id: "2024-04-12-helles-yeah.md";
+  slug: "2024-04-12-helles-yeah";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-12-long-way-from-home.md": {
+	id: "2024-04-12-long-way-from-home.md";
+  slug: "2024-04-12-long-way-from-home";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-25-gingerbeer.md": {
+	id: "2024-04-25-gingerbeer.md";
+  slug: "2024-04-25-gingerbeer";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-04-27-spring-weiss.md": {
+	id: "2024-04-27-spring-weiss.md";
+  slug: "2024-04-27-spring-weiss";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
+"2024-05-04-chocobuster.md": {
+	id: "2024-05-04-chocobuster.md";
+  slug: "2024-05-04-chocobuster";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 
 	};
