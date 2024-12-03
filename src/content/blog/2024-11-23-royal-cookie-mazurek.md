@@ -1,5 +1,5 @@
 ---
-title:  Royal Cookie: Mazurek
+title:  Royal Cookie&colon; Mazurek
 brewer: Funky Fluid
 venue: Manifest Taproom
 reviewer: Agnes Haverling
