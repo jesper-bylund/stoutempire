@@ -7,7 +7,7 @@ export async function getStaticPaths() {
 	return posts.map((post) => ({
 		params: { slug: post.slug },
 		props: post,
-	}));;
+	}));
 }
 type Props = CollectionEntry<'blog'>;
 
@@ -17,6 +17,6 @@ const { Content } = await post.render();
 
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post}>
 	<Content />
 </BlogPost>
