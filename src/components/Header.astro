@@ -26,6 +26,10 @@ import { SITE_TITLE } from '../consts';
 		padding: 0 1em;
 		background: white;
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		min-height: 76px;
+		display: flex;
+		align-items: center;
+		justify-content: stretch;
 	}
 	h2 {
 		margin: 0;
@@ -38,8 +42,9 @@ import { SITE_TITLE } from '../consts';
 	}
 	nav {
 		display: flex;
-		align-items: center;
 		justify-content: space-between;
+		align-items: center;
+		flex: 1;
 	}
 	nav a {
 		padding: 1em 0.5em;

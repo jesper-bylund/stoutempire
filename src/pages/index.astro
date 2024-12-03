@@ -16,33 +16,29 @@ const posts = (await getCollection('blog')).sort(
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
-		ul {
-				display: flex;
-				flex-wrap: wrap;
+			ul {
+				display: grid;
+				grid-template-columns: repeat(12, 1fr);
 				gap: 2rem;
 				list-style-type: none;
 				margin: 0;
 				padding: 0;
 			}
 			ul li {
-				width: calc(50% - 1rem);
+				grid-column: span 3;
+			}
+			/* First two posts take up 6 columns each */
+			ul li:nth-child(1),
+			ul li:nth-child(2) {
+				grid-column: span 6;
 			}
 			ul li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
 			ul li img {
+				width: 100%;
+				height: auto;
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
@@ -54,33 +50,50 @@ const posts = (await getCollection('blog')).sort(
 				color: rgb(var(--black));
 				line-height: 1;
 			}
+			/* Larger title for first two posts */
+			ul li:nth-child(1) .title,
+			ul li:nth-child(2) .title {
+				font-size: 1.8rem;
+			}
 			.date {
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-		ul li a:hover h4,
+			ul li a:hover h4,
 			ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
-			@media (max-width: 720px) {
+			@media (min-width: 501px) and (max-width: 900px) {
 				ul {
-					gap: 0.5em;
+					gap: 1.5rem;
 				}
 				ul li {
-					width: 100%;
-					text-align: center;
+					grid-column: span 4; /* 2 posts per row for medium screens */
 				}
-				ul li:first-child {
-					margin-bottom: 0;
+				ul li:nth-child(1),
+				ul li:nth-child(2) {
+					grid-column: span 6; /* Full width for first two posts */
 				}
-				ul li:first-child .title {
+			}
+			
+			@media (max-width: 500px) {
+				ul {
+					gap: 1rem;
+				}
+				ul li,
+				ul li:nth-child(1),
+				ul li:nth-child(2) {
+					grid-column: 1 / -1;
+				}
+				ul li:nth-child(1) .title,
+				ul li:nth-child(2) .title {
 					font-size: 1.563em;
 				}
 			}
-			</style>
+		</style>
 	</head>
 	<body>
 		<Header />
