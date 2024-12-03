@@ -99,7 +99,7 @@ const posts = (await getCollection('blog')).sort(
 								<a href={`/blog/${post.slug}/`}>
 									{post.data.image && <img width={720} height={360} src={post.data.image} alt="" />}
 									{!post.data.image && <img width={720} height={360} src="/placeholder.png" alt="" />}
-									<h4 class="title">{post.data.title}</h4>
+									<h4 class="title" set:html={post.data.title} />
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} />
 									</p>
