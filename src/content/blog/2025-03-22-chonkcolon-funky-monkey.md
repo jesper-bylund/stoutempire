@@ -1,5 +1,5 @@
 ---
-title:  CHONK: Funky Monkey
+title: "CHONK:Funky Monkey"
 brewer: Drekker Brewing Company
 venue: Biererei Bar & Vintage Cellar
 reviewer: Agnes Haverling
